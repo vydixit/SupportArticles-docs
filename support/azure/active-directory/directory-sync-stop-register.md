@@ -25,7 +25,7 @@ You experience one of the following symptoms:
 - You're unable to start one or more of the directory synchronization services.
 
 > [!NOTE]
-> By default, directory synchronization runs every three hours.
+> By default, directory synchronization runs every 30 Minutes. 
 
 ## Cause
 
